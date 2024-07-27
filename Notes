@@ -1,0 +1,9 @@
+Creating project in flutter
+--------------------------------------
+    flutter create my_project_name
+Check flutter ready to start running
+--------------------------------------
+    flutter doctor
+Change android sdk location in flutter config
+----------------------------------------------
+    flutter config --android-sdk path_toandroid_sdk_location
